@@ -2,7 +2,7 @@ var __wpo = {
   "assets": {
     "main": [
       "/favicon.ico",
-      "/runtime~main.c76f45da5127288684f6.js",
+      "/runtime~main.5dbc4537e066b7ace1a5.js",
       "/"
     ],
     "additional": [
@@ -19,15 +19,15 @@ var __wpo = {
     "5e53ef208f3fa79a48f8374488f473c76e1233de": "/favicon.ico",
     "6ef8afcceca016604f4f1a927304766dd1d5bf9c": "/vendor.8376ae213a076c9e1ec3.chunk.js",
     "34a587394bd37a17ef9ca60f5e2bf6969e96a502": "/main.a0925336d01ff80f21b9.chunk.js",
-    "b0ae9a96b0209a4df91ed9f922d621b84a40eff0": "/runtime~main.c76f45da5127288684f6.js",
+    "2288aa83cf97bacac0dddb7ec6cdac270475af58": "/runtime~main.5dbc4537e066b7ace1a5.js",
     "99d16dbf1c5fb7632f4780da0c3eea11c42aacab": "/3.7e6a3e0519acbaebbc8b.chunk.js",
     "3beca84ddfe2bef3f588374a1b6e41ab5cacdeb2": "/4.2d4c016552beec71c0ef.chunk.js",
     "995875da7dc0170ae7615e3f63a34521ef95f6bf": "/5.c8126f147229bed88095.chunk.js",
-    "633c76189b645e3e2fae2946f626fdac57ef9051": "/"
+    "84a28d713750e8fb6880e4a6fad8ffda85fe567a": "/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "2018-11-29 22:03:43",
+  "version": "2018-11-29 22:18:36",
   "name": "webpack-offline",
   "pluginVersion": "5.0.5",
   "relativePaths": false
@@ -112,7 +112,7 @@ var __wpo = {
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/";
+/******/ 	__webpack_require__.p = "./";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
